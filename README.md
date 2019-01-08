@@ -15,7 +15,7 @@ A curated list of worldwide legal manga reading site.
 |[Dengeki Twitter Magazine](https://twitter.com/dentsuma)|Japanese||
 |[DMM](https://book.dmm.com/)|Japanese||
 |[eManga](https://www.emanga.com/)|English|Manga from tezuka Production, Media Factory, and Softbank Creative|
-|[eBook Japan Initiative]|Japanese|Provides free-to-read manga, consists of manga from various Japanese publisher|
+|[eBook Japan Initiative](https://www.ebookjapan.jp/ebj/)|Japanese|Provides free-to-read manga, consists of manga from various Japanese publisher|
 |[Fakku](http://fakku.net/)|English|R18+, Providing contents from Wanimagazine (Comic Kairakuten, Comic Shitsurakuten, Comic X-Eros)|
 |[Gangan Online](http://www.ganganonline.com/)|Japanese||
 |[Ichijinsha](http://www.ichijinsha.co.jp/)|Japanese|Providing content from Ichijinsha's publication such as Yuri-hime Comics, Comic Pool, and Zero Sum Comics|
