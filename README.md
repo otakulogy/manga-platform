@@ -6,6 +6,7 @@ A curated list of worldwide legal manga reading site.
 |[Ballon & Chapters](http://www.balloonsandchapters.com/)|English|Mostly shoujo/josei mangafrom Sofbank Creative|
 |[BookWalker](https://bookwalker.jp/)|Japanese, English||
 |[ComicWalker](https://comic-walker.com/)|Japanese|Providing content from Kadokawa Publishing|
+|[Comic Days](https://comic-walker.com/)|Japanese|980JPY per month for every manga magazine from Kodansha, including Shonen Magazine, Dessert, Nakayoshi, Morning, and Afternoon|
 |[Comico](https://www.comico.jp/)|Japan|Web comic. Also providing comics from Korea, Indonesia, and Thailand.|
 |[Comico Indonesia](http://www.comico.co.id/)|Indonesian|Localized version of Comico|
 |[Comixology](https://www.comixology.com/Manga)|English|Mostly manga that licensed on NA|
@@ -23,7 +24,7 @@ A curated list of worldwide legal manga reading site.
 |[Line Manga](https://play.google.com/store/apps/details?id=jp.linebd.lbdmanga)|Japanese||
 |[Manga.club](https://www.manga.club/)|English|Manga from Torico Publishing (?)|
 |[Mangabox](https://www.mangabox.me/)|Japanese, Chinese, English||
-|[Mangamon](http://www.mangamon.id/)|Indonesian|Providing contents from Elex Media and M&C Comics|
+|[Mangamon](http://www.mangamon.id/)|Indonesian|Providing contents from Elex Media, M&C Comics, and eBook Japan Initiative|
 |[Manga Reborn](http://mangareborn.jp/)|Japanese, English|Legal Third-party Translation|
 |[Piccoma](https://piccoma.com/web/)|Japanese||
 |[Pixiv Comic](https://comic.pixiv.net/)|Japanese|Providing content from various magazine (Shonen Sunday, Kitora!, Dengeki Maou, etc.)|
