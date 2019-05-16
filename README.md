@@ -33,8 +33,9 @@ A curated list of worldwide legal manga reading site. Please note that the list 
 |[Mangabox](https://www.mangabox.me/)|Japanese, Chinese, English|||
 |[Manga Plus](https://mangaplus.shueisha.co.jp)|English, Spanish|Worldwide except Japan, South Korea, and Mainland China|Provides manga under Shounen Jump, Ultra Jump, Tonari no Young Jump, and more. Available in Android and iOS.|
 |[Manga Reborn](http://mangareborn.jp/)|Japanese, English||Legal Third-party Translation|
+|[Nico Nico Manga](https://seiga.nicovideo.jp/manga/)|Japanese|Japan|Provides manga from various Japanese publisher.|
 |[NetEase Comic](https://163.bilibili.com/)|Mandarin|China||
-|[Piccoma](https://piccoma.com/web/)|Japanese|||
+|[Piccoma](https://piccoma.com/web/)|Japanese|Japan||
 |[Pixiv Comic](https://comic.pixiv.net/)|Japanese|Japan, can be accessed from everywhere|Provides content from various magazine (Shonen Sunday, Kitora!, Dengeki Maou, etc.)|
 |[QQ Comic](https://ac.qq.com/)|Mandarin|China||
 |[Renta!](https://www.ebookrenta.com/)|English|United States||
