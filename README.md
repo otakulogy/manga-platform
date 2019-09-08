@@ -23,6 +23,7 @@ A curated list of worldwide legal manga reading site. Please note that the list 
 |[eManga](https://www.emanga.com/)|English|United States|Manga from Tezuka Production, Media Factory, and Softbank Creative|
 |[eBook Japan Initiative](https://www.ebookjapan.jp/ebj/)|Japanese|Japan|Provides free-to-read manga, consists of manga from various Japanese publisher|
 |[Fakku](http://fakku.net/)|English|Worldwide except Japan, Mainland China, and South Korea|R18+, Provides contents from Wanimagazine (Comic Kairakuten, Comic Shitsurakuten, Comic X-Eros)|
+|[Futekiya](https://read.futekiya.com/)|English||Boys-love focused platform.|
 |[Gangan Online](http://www.ganganonline.com/)|Japanese||
 |[Ichijinsha](http://www.ichijinsha.co.jp/)|Japanese||Provides content from Ichijinsha's publication such as Yuri-hime Comics, Comic Pool, and Zero Sum Comics|
 |[GEN](http://genmanga.com/issues/index.html)|English||Original Japanese doujinshi / indie manga|
