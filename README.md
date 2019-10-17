@@ -9,7 +9,6 @@ A curated list of worldwide legal manga reading site. Please note that the list 
 |[ComicWalker](https://comic-walker.com/)|Japanese|Japan|Provides content from Kadokawa Publishing|
 |[Comic Days](https://comic-walker.com/)|Japanese|Japan|980JPY per month for every manga magazine from Kodansha, including Shonen Magazine, Dessert, Nakayoshi, Morning, and Afternoon|
 |[Comico](https://www.comico.jp/)|Japanese|Japan|Web comic. Also provides comics from Korea, Indonesia, and Thailand.|
-|[Comico Indonesia](http://www.comico.co.id/)|Indonesian|Indonesia|Indonesia localized version of Comico with additional local content. Also provides novel from Elex Media and Harlequin manga.|
 |[Comico Korea](http://www.comico.co.id/)|Korean|South Korea|South Korea localized version of Comico with additional local content.|
 |[Comico Spanish](http://www.comico.net/webtoon/index)|Spanish|Spain|Spanish language version of Comico.|
 |[Comico Taiwan](http://www.comico.com.tw/)|Cantonese|Taiwan|Taiwan localized version of Comico with additional local content.|
@@ -50,4 +49,5 @@ A curated list of worldwide legal manga reading site. Please note that the list 
 
 |Site| Language| Country/Region| Note |
 |---------------|--------------|---|-------|
+|[Comico Indonesia](http://www.comico.co.id/)|Indonesian|Indonesia|Indonesia localized version of Comico with additional local content. Also provides novel from Elex Media and Harlequin manga.|
 |[Mangamon](http://www.mangamon.id/)|Indonesian|Indonesia|Provides contents from Elex Media, M&C Comics, and eBook Japan Initiative|
