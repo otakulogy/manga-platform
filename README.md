@@ -31,6 +31,7 @@ A curated list of worldwide legal manga reading site. Please note that the list 
 |[Line Manga](https://play.google.com/store/apps/details?id=jp.linebd.lbdmanga)|Japanese|Japan||
 |[Manga.club](https://www.manga.club/)|English||Manga from Torico Publishing (?)|
 |[Mangabox](https://www.mangabox.me/)|Japanese, Chinese, English|||
+|[Manga Planet](https://read.mangaplanet.com)|English|Worldwide except Japan|Subsciption based (6.99USD) for unlimited content.|
 |[Manga Plus](https://mangaplus.shueisha.co.jp)|English, Spanish|Worldwide except Japan, South Korea, and Mainland China|Provides manga under Shounen Jump, Ultra Jump, Tonari no Young Jump, and more. Available in Android and iOS.|
 |[Manga Reborn](http://mangareborn.jp/)|Japanese, English||Legal Third-party Translation|
 |[Nico Nico Manga](https://seiga.nicovideo.jp/manga/)|Japanese|Japan|Provides manga from various Japanese publisher.|
