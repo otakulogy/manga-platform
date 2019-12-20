@@ -35,6 +35,7 @@ A curated list of worldwide legal manga reading site. Please note that the list 
 |[Manga Plus](https://mangaplus.shueisha.co.jp)|English, Spanish|Worldwide except Japan, South Korea, and Mainland China|Provides manga under Shounen Jump, Ultra Jump, Tonari no Young Jump, and more. Available in Android and iOS.|
 |[Manga Reborn](http://mangareborn.jp/)|Japanese, English||Legal Third-party Translation|
 |[Manga Toshokan Z](https://mangaz.com)|Japanese||All content are free to read|
+|[MyAnimeList](https://myanimelist.net/read/manga)|English|Worldwide|Free to read|
 |[Nico Nico Manga](https://seiga.nicovideo.jp/manga/)|Japanese|Japan|Provides manga from various Japanese publisher.|
 |[NetEase Comic](https://163.bilibili.com/)|Mandarin|China||
 |[Piccoma](https://piccoma.com/web/)|Japanese|Japan||
