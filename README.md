@@ -15,6 +15,7 @@ A curated list of worldwide legal manga reading site. Please note that the list 
 |[Comico Thailand](http://www.comico.in.th/)|Thai|Thailand|Thailand localized version of Comico with additional local content.|
 |[Comixology](https://www.comixology.com/Manga)|English|United States, Canada|Mostly manga that licensed on NA|
 |[Comixology Europe](https://www.comixology.eu/)|English|||
+|[Coolmic](https://coolmic.me)|English||Application only|
 |[Crunchyroll](http://www.crunchyroll.com/comics/manga)|English||
 |[Cycomics](https://cycomi.com/)|Japanese|Japan|Provides content from Cygames Publication|
 |[Dengeki Twitter Magazine](https://twitter.com/dentsuma)|Japanese|Japan||
