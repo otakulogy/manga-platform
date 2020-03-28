@@ -8,6 +8,7 @@ A curated list of worldwide legal manga reading site. Please note that the list 
 |[BookWalker](https://bookwalker.jp/)|Japanese, English|||
 |[ComicWalker](https://comic-walker.com/)|Japanese|Japan|Provides content from Kadokawa Publishing|
 |[Comic Days](https://comic-walker.com/)|Japanese|Japan|980JPY per month for every manga magazine from Kodansha, including Shonen Magazine, Dessert, Nakayoshi, Morning, and Afternoon|
+|[Comic Newtype](https://comic.webnewtype.com/)|Japanese|Japan|Provides contents from Kadokawa's Newtype|
 |[Comico](https://www.comico.jp/)|Japanese|Japan|Web comic. Also provides comics from Korea, Indonesia, and Thailand.|
 |[Comico Korea](http://www.comico.co.id/)|Korean|South Korea|South Korea localized version of Comico with additional local content.|
 |[Comico Spanish](http://www.comico.net/webtoon/index)|Spanish|Spain|Spanish language version of Comico.|
@@ -25,10 +26,9 @@ A curated list of worldwide legal manga reading site. Please note that the list 
 |[Fakku](http://fakku.net/)|English|Worldwide except Japan, Mainland China, and South Korea|R18+, Provides contents from Wanimagazine (Comic Kairakuten, Comic Shitsurakuten, Comic X-Eros)|
 |[Futekiya](https://read.futekiya.com/)|English||Boys-love focused platform.|
 |[Gangan Online](http://www.ganganonline.com/)|Japanese||
+|[GEN](http://genmanga.com/issues/index.html)|English||Original Japanese doujinshi / indie manga|
 |[Ichijinsha](http://www.ichijinsha.co.jp/)|Japanese||Provides content from Ichijinsha's publication such as Yuri-hime Comics, Comic Pool, and Zero Sum Comics|
 |[Izneo](https://www.izneo.com/)|English, French, Dutch, German||Provides manga from Kodansha Comics and Vertical|
-|[GEN](http://genmanga.com/issues/index.html)|English||Original Japanese doujinshi / indie manga|
-|[Comic Newtype](https://comic.webnewtype.com/)|Japanese|Japan|Provides contents from Kadokawa's Newtype|
 |[Komiflo](https://komiflo.com/)|Japanese|Japan|R18+, Provides contents from Wanimagazine (Comic Kairakuten, Comic Shitsurakuten, Comic X-Eros)|
 |[Line Manga](https://play.google.com/store/apps/details?id=jp.linebd.lbdmanga)|Japanese|Japan||
 |[Manga.club](https://www.manga.club/)|English||Manga from Torico Publishing (?)|
