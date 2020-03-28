@@ -26,6 +26,7 @@ A curated list of worldwide legal manga reading site. Please note that the list 
 |[Futekiya](https://read.futekiya.com/)|English||Boys-love focused platform.|
 |[Gangan Online](http://www.ganganonline.com/)|Japanese||
 |[Ichijinsha](http://www.ichijinsha.co.jp/)|Japanese||Provides content from Ichijinsha's publication such as Yuri-hime Comics, Comic Pool, and Zero Sum Comics|
+|[Izneo](https://www.izneo.com/)|English, French, Dutch, German||Provides manga from Kodansha Comics and Vertical|
 |[GEN](http://genmanga.com/issues/index.html)|English||Original Japanese doujinshi / indie manga|
 |[Comic Newtype](https://comic.webnewtype.com/)|Japanese|Japan|Provides contents from Kadokawa's Newtype|
 |[Komiflo](https://komiflo.com/)|Japanese|Japan|R18+, Provides contents from Wanimagazine (Comic Kairakuten, Comic Shitsurakuten, Comic X-Eros)|
