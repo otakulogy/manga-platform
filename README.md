@@ -7,7 +7,7 @@ A curated list of worldwide legal manga reading site. Please note that the list 
 |[Ballon & Chapters](http://www.balloonsandchapters.com/)|English||Mostly shoujo/josei mangafrom Sofbank Creative|
 |[BookWalker](https://bookwalker.jp/)|Japanese, English|||
 |[ComicWalker](https://comic-walker.com/)|Japanese|Japan|Provides content from Kadokawa Publishing|
-|[Comic Days](https://comic-walker.com/)|Japanese|Japan|980JPY per month for every manga magazine from Kodansha, including Shonen Magazine, Dessert, Nakayoshi, Morning, and Afternoon|
+|[Comic Days](https://comic-days.com)|Japanese|Japan|980JPY per month for every manga magazine from Kodansha, including Shonen Magazine, Dessert, Nakayoshi, Morning, and Afternoon|
 |[Comic Newtype](https://comic.webnewtype.com/)|Japanese|Japan|Provides contents from Kadokawa's Newtype|
 |[Comico](https://www.comico.jp/)|Japanese|Japan|Web comic. Also provides comics from Korea, Indonesia, and Thailand.|
 |[Comico Korea](http://www.comico.co.id/)|Korean|South Korea|South Korea localized version of Comico with additional local content.|
