@@ -43,6 +43,7 @@ A curated list of worldwide legal manga reading site. Please note that the list 
 |[NetEase Comic](https://163.bilibili.com/)|Mandarin|China||
 |[Piccoma](https://piccoma.com/web/)|Japanese|Japan||
 |[Pixiv Comic](https://comic.pixiv.net/)|Japanese|Japan, can be accessed from everywhere|Provides content from various magazine (Shonen Sunday, Kitora!, Dengeki Maou, etc.)|
+|Pocket Comics|English|Canada, Singapore, US|International version of Comico. [Android](https://play.google.com/store/apps/details?id=jp.comico) / [iOS](https://itunes.apple.com/jp/app/id721512660)|
 |[QQ Comic](https://ac.qq.com/)|Mandarin|China||
 |[Renta!](https://www.ebookrenta.com/)|English|United States||
 |[Sublime Manga](https://www.sublimemanga.com/)|English||Boys-love only|
