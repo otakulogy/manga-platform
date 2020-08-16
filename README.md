@@ -1,11 +1,25 @@
 # Legal Platform for Manga Reading
 
+<p align="center">
+	<a href="https://otakulogy.github.io/anime-streaming/">anime</a>
+    &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+	<a href="https://otakulogy.github.io/tokusatsu-streaming">tokusatsu</a>
+</p>
+
 A curated list of worldwide legal manga reading site. Please note that the list only consists platform that host Japanese comic.
+
+## Contents:
+- [Subscription-based](#subscription-based)
+- [Online Manga Store](#digital-online-store)
+- [Deprecated](#deprecated)
+
+## Subscription-based
+
+Some site on this list has totally free catalog.
 
 |Site| Language|Country/Region| Note |
 |---------------|--------------|----|-------|
 |[Ballon & Chapters](http://www.balloonsandchapters.com/)|English||Mostly shoujo/josei mangafrom Sofbank Creative|
-|[BookWalker](https://bookwalker.jp/)|Japanese, English|||
 |[ComicWalker](https://comic-walker.com/)|Japanese|Japan|Provides content from Kadokawa Publishing|
 |[Comic Days](https://comic-days.com)|Japanese|Japan|980JPY per month for every manga magazine from Kodansha, including Shonen Magazine, Dessert, Nakayoshi, Morning, and Afternoon|
 |[Comic Newtype](https://comic.webnewtype.com/)|Japanese|Japan|Provides contents from Kadokawa's Newtype|
@@ -38,7 +52,7 @@ A curated list of worldwide legal manga reading site. Please note that the list 
 |[Manga Plus](https://mangaplus.shueisha.co.jp)|English, Spanish|Worldwide except Japan, South Korea, and Mainland China|Provides manga under Shounen Jump, Ultra Jump, Tonari no Young Jump, and more. Available in Android and iOS.|
 |[Manga Reborn](http://mangareborn.jp/)|Japanese, English||Legal Third-party Translation|
 |[Manga Toshokan Z](https://mangaz.com)|Japanese||All content are free to read|
-|[MyAnimeList](https://myanimelist.net/read/manga)|English|Worldwide|Free to read|
+|[MyAnimeList](https://myanimelist.net/read/manga)|English|Worldwide|Partially free to read|
 |[Nico Nico Manga](https://seiga.nicovideo.jp/manga/)|Japanese|Japan|Provides manga from various Japanese publisher.|
 |[NetEase Comic](https://163.bilibili.com/)|Mandarin|China||
 |[Piccoma](https://piccoma.com/web/)|Japanese|Japan||
@@ -52,7 +66,18 @@ A curated list of worldwide legal manga reading site. Please note that the list 
 |[Viz](https://www.viz.com/read)|English|North America|Manga licensed by Viz Media|
 |[Young Ace UP](https://web-ace.jp/youngaceup/)|Japanese|Japan|Free manga from Kadokawa's Young Ace|
 
-### Deprecated
+## Digital Online Store
+
+|Site| Language|Country/Region| Note |
+|---------------|--------------|----|-------|
+|[BookWalker](https://bookwalker.jp/)|Japan|Japanese||
+|[BookWalker (Global)](https://global.bookwalker.jp/)|Global|English||
+|[Comixology](https://www.comixology.com/Manga)|English|United States, Canada|Mostly manga that licensed on NA|
+|[Comixology Europe](https://www.comixology.eu/)|English|||
+|[Melonbooks](melonbooks.co.jp/)|Japan; operated globally|Japanese|Mainly provide doujin works|
+|[MyAnimeList](https://myanimelist.net/read/manga)|English|Worldwide|Partially free to read|
+
+## Deprecated
 
 |Site| Language| Country/Region| Note |
 |---------------|--------------|---|-------|
