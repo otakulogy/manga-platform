@@ -19,6 +19,7 @@ Some site on this list has totally free catalog.
 
 |Site| Language|Country/Region| Note |
 |---------------|--------------|----|-------|
+|[Azuki](https://www.azuki.co/)|English||4.99USD per month|
 |[Ballon & Chapters](http://www.balloonsandchapters.com/)|English||Mostly shoujo/josei mangafrom Sofbank Creative|
 |[ComicWalker](https://comic-walker.com/)|Japanese|Japan|Provides content from Kadokawa Publishing|
 |[Comic Days](https://comic-days.com)|Japanese|Japan|980JPY per month for every manga magazine from Kodansha, including Shonen Magazine, Dessert, Nakayoshi, Morning, and Afternoon|
