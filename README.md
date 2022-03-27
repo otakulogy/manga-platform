@@ -17,7 +17,9 @@ A curated list of worldwide legal manga reading site. Please note that the list 
 # Native (Japanese only)
 
 ## First Party
+
 First party native platform (directly from publisher), not redistributor.
+
 |Site| Magazine/Publication| Note |
 |---------------|--------------|---|
 |[Comic Days](https://comic-days.com)|Kodansha: Shonen Magazine, Dessert, Nakayoshi, Morning, and Afternoon|980JPY per month for every manga magazine from Kodansha|
@@ -89,6 +91,7 @@ Some site on this list has totally free catalog.
 
 |Site| Language|Country/Region| Note |
 |---------------|--------------|----|-------|
+|[Barnes and Noble](https://www.barnesandnoble.com/)||English|Mostly manga that licensed on NA|
 |[BookWalker (Global)](https://global.bookwalker.jp/)|Global|English||
 |[Comixology](https://www.comixology.com/Manga)|English|United States, Canada|Mostly manga that licensed on NA|
 |[Comixology Europe](https://www.comixology.eu/)|English|||
