@@ -24,18 +24,20 @@ First party native platform (directly from publisher), not redistributor.
 |---------------|--------------|---|
 |[Comic Days](https://comic-days.com)|Kodansha: Shonen Magazine, Dessert, Nakayoshi, Morning, and Afternoon|980JPY per month for every manga magazine from Kodansha|
 |[Comic Newtype](https://comic.webnewtype.com/)|Kadokawa: Newtype| 
-|[Cycomics](https://cycomi.com/)||Provides content from Cygames Publication|
-|[Dengeki Twitter Magazine](https://twitter.com/dentsuma)|
-|[Gangan Online](http://www.ganganonline.com/)||
-|[Ichijinsha](http://www.ichijinsha.co.jp/)|Ichijinsha: Yuri-hime Comics, Comic Pool, and Zero Sum Comics|
+|[Cycomics](https://cycomi.com/)|Cygames: Cycomi|
+|[Dentsuma](https://twitter.com/dentsuma)|Kadokawa: Dengeki Twitter Magazine|
+|[Gangan Online](http://www.ganganonline.com/)|Square Enix: Gangan Online|
+|[Ichijin Plus](https://ichijin-plus.com/)|Ichijinsha: Yuri-hime Comics, Comic Pool, and Zero Sum Comics|
+|[Zerosum Online](https://zerosumonline.com/zerosum)|Ichijinsha: Zero Sum Comics|
 |[Komiflo](https://komiflo.com/)|Wani Magazine: Comic Kairakuten, Comic Shitsurakuten, Comic X-Eros | R18+ only
-|[Young Ace UP](https://web-ace.jp/youngaceup/)|Free manga from Kadokawa's Young Ace|
+|[Young Ace UP](https://web-ace.jp/youngaceup/)|Kadokawa: Young Ace|
 
 ## Third Party Store
 
 |Site| Magazine/Publication| Note |
 |---------------|--------------|---|
 |[BookWalker](https://bookwalker.jp/)|
+|[Booth.pm](https://booth.pm)|General purpose doujin and official product market.|
 |[eBook Japan Initiative](https://www.ebookjapan.jp/ebj/)| Provides free-to-read manga, consists of manga from various Japanese publisher|
 |[DLSite](https://www.dlsite.com/)| Doujin works and other niche otaku product
 |[Line Manga](https://manga.line.me/) | 
