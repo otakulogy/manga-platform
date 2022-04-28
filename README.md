@@ -45,6 +45,12 @@ First party native platform (directly from publisher), not redistributor.
 
 # Global
 
+## Per Chapter/title purchase
+
+|Site| Language|Country/Region| Note |
+|---------------|--------------|----|-------|
+|Mangapon|English|US, Canada, Australia, Singapore, and more (70+ countries)|WWWave Comics: CocoCheek, MEQLME, Zacuromanica, Comic Goichi, Trahison. Mobile only: [Android](https://play.google.com/store/apps/details?id=com.wwwave.mangapon), [iOS](https://apps.apple.com/app/apple-store/id1610255667)|
+
 ## Subscription-based
 
 Some site on this list has totally free catalog.
