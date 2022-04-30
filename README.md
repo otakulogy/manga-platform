@@ -53,7 +53,7 @@ First party native platform (directly from publisher), not redistributor.
 |---------------|--------------|----|-------|
 |Mangapon|English|US, Canada, Australia, Singapore, and more (70+ countries)|WWWave Comics: CocoCheek, MEQLME, Zacuromanica, Comic Goichi, Trahison. Mobile only: [Android](https://play.google.com/store/apps/details?id=com.wwwave.mangapon), [iOS](https://apps.apple.com/app/apple-store/id1610255667)|
 
-## Subscription-based
+## Others
 
 Some site on this list has totally free catalog.
 
@@ -76,6 +76,7 @@ Some site on this list has totally free catalog.
 |[Fakku](http://fakku.net/)|English|Worldwide except Japan, Mainland China, and South Korea|R18+, Provides contents from Wanimagazine (Comic Kairakuten, Comic Shitsurakuten, Comic X-Eros)|
 |[Futekiya](https://read.futekiya.com/)|English||Boys-love focused platform.|
 |[GEN](http://genmanga.com/issues/index.html)|English||Original Japanese doujinshi / indie manga|
+|[INKR](https://inkr.com/browse/manga)|English||Previously MangaRock. Provides manga from Kodansha USA, Tokyopop, Softbank, Medibang, etc|
 |[Izneo](https://www.izneo.com/)|English, French, Dutch, German||Provides manga from Kodansha Comics and Vertical|
 |[Manga.club](https://www.manga.club/)|English||Manga from Torico, Akita Shoten, Nihon Bungeisha, etc.|
 |[Mangabox](https://www.mangabox.me/)|Japanese, Chinese, English||DeNA owned platform. Available in Android and iOS. Host indie manga as well|
