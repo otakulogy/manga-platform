@@ -59,7 +59,7 @@ Some site on this list has totally free catalog.
 
 |Site| Language|Country/Region| Note |
 |---------------|--------------|----|-------|
-|[Azuki](https://www.azuki.co/)|English||4.99USD per month|
+|[Azuki](https://www.azuki.co/)|English|Worldwide except Japan|4.99USD per month|
 |[Ballon & Chapters](http://www.balloonsandchapters.com/)|English||Mostly shoujo/josei mangafrom Sofbank Creative|
 |[ComicWalker](https://comic-walker.com/)|Japanese|Japan|Provides content from Kadokawa Publishing|
 |[Comico](https://www.comico.jp/)|Japanese|Japan|Web comic. Also provides comics from Korea, Indonesia, and Thailand.|
