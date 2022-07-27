@@ -47,6 +47,12 @@ First party native platform (directly from publisher), not redistributor.
 
 # Global
 
+## First Party
+|Site| Magazine/Publication| Language|Note |
+|---------------|--------------|---|
+|[Manga UP!](https://global.manga-up.com/)|Square Enix: Shounen Gangan, G Fantasy, Gangan Joker, Young Gangan, etc.|English|Per chapter rental, fanservice/nudity content is heavily censored with blackbars.|
+|[MangaPlus](https://mangaplus.shueisha.co.jp)|Shueisha: Shounen Jump, Jump+, Ultra Jump, Tonari no Young Jump, etc. |English, Spanish, Indonesian, Thai, French, Russian, Brazilian Portuguese||
+
 ## Per Chapter/title purchase
 
 |Site| Language|Country/Region| Note |
@@ -83,7 +89,6 @@ Some site on this list has totally free catalog.
 |[Mangamo](https://www.mangamo.com/)|English|Canada and US|iOS only; subsciption based with 4.99USD per month.|
 |[Manga Planet](https://read.mangaplanet.com)|English|Worldwide except Japan|Subsciption based (6.99USD/month) for unlimited content. Content provided by Kadokawa USA, Wani Books, Hobby Japan, etc.|
 |[MangaPlaza](https://read.mangaplanet.com)|English|US but accessible globally|Subsciption based (6.99USD/month) for unlimited content. Content provided by SB Creative, Kodansha, Hakusensha, Houbunsha, Solmare, Shuisuisha, Funguild, etc. Owned by NTT Solmare.|
-|[MangaPlus](https://mangaplus.shueisha.co.jp)|English, Spanish, Indonesian, Thai, French, Russian, Brazilian Portuguese|Worldwide except Japan, South Korea, and Mainland China|Provides manga under Shueisha: Shounen Jump, Jump+, Ultra Jump, Tonari no Young Jump, and more. Available in Android and iOS.|
 |[Manga Reborn](http://mangareborn.jp/)|Japanese, English||Legal Third-party Translation|
 |[Manga Toshokan Z](https://mangaz.com)|Japanese||All content are free to read|
 |[MyAnimeList](https://myanimelist.net/read/manga)|English|Worldwide|Partially free to read|
