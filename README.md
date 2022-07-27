@@ -49,7 +49,7 @@ First party native platform (directly from publisher), not redistributor.
 
 ## First Party
 |Site| Magazine/Publication| Language|Note |
-|---------------|--------------|---|
+|---------------|--------------|---|---|
 |[Manga UP!](https://global.manga-up.com/)|Square Enix: Shounen Gangan, G Fantasy, Gangan Joker, Young Gangan, etc.|English|Per chapter rental, fanservice/nudity content is heavily censored with blackbars.|
 |[MangaPlus](https://mangaplus.shueisha.co.jp)|Shueisha: Shounen Jump, Jump+, Ultra Jump, Tonari no Young Jump, etc. |English, Spanish, Indonesian, Thai, French, Russian, Brazilian Portuguese||
 
