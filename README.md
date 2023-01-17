@@ -93,7 +93,7 @@ Some site on this list has totally free catalog.
 |[Manga Toshokan Z](https://mangaz.com)|Japanese||All content are free to read|
 |[MyAnimeList](https://myanimelist.net/read/manga)|English|Worldwide|Partially free to read|
 |[NetEase Comic](https://163.bilibili.com/)|Mandarin|China||
-|[Piccoma](https://piccoma.com/web/)|Japanese|Japan||
+|[Piccoma](https://piccoma.com/web/)|Japanese|Japan|Region locked to Japan only|
 |Pocket Comics|English|Canada, Singapore, US|International version of Comico. [Android](https://play.google.com/store/apps/details?id=jp.comico) / [iOS](https://itunes.apple.com/jp/app/id721512660)|
 |[QQ Comic](https://ac.qq.com/)|Mandarin|China||
 |[Renta!](https://www.ebookrenta.com/)|English|United States||
