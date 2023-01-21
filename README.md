@@ -28,6 +28,7 @@ First party native platform (directly from publisher), not redistributor.
 |[Dentsuma](https://twitter.com/dentsuma)|Kadokawa: Dengeki Twitter Magazine|
 |[Gangan Online](http://www.ganganonline.com/)|Square Enix: Gangan Online|
 |[Ichijin Plus](https://ichijin-plus.com/)|Ichijinsha: Yuri-hime Comics, Comic Pool, and Zero Sum Comics|
+|[MangaUP!](https://magazine.jp.square-enix.com/mangaup/)|Square Enix: Shonen Gangan, Young Gangan, Gangan Joker, etc|
 |[Zerosum Online](https://zerosumonline.com/zerosum)|Ichijinsha: Zero Sum Comics|
 |[Komiflo](https://komiflo.com/)|Wani Magazine: Comic Kairakuten, Comic Shitsurakuten, Comic X-Eros | R18+ only
 |[Young Ace UP](https://web-ace.jp/youngaceup/)|Kadokawa: Young Ace|
