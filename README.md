@@ -22,6 +22,7 @@ First party native platform (directly from publisher), not redistributor.
 
 |Site| Magazine/Publication| Note |
 |---------------|--------------|---|
+|[Alphapolis](https://www.alphapolis.co.jp/manga/official)|Alphapolis: Alphapolis, Regina, Alphanorn, Eternity, Andarche|
 |[Comic Days](https://comic-days.com)|Kodansha: Shonen Magazine, Dessert, Nakayoshi, Morning, and Afternoon|980JPY per month for every manga magazine from Kodansha|
 |[Comic Newtype](https://comic.webnewtype.com/)|Kadokawa: Newtype| 
 |[Cycomics](https://cycomi.com/)|Cygames: Cycomi|
@@ -51,6 +52,7 @@ First party native platform (directly from publisher), not redistributor.
 ## First Party
 |Site| Magazine/Publication| Language|Note |
 |---------------|--------------|---|---|
+|[Alpha Manga](https://www.alpha-manga.com/)|Alphapolis: Alphapolis, Regina, Alphanorn, Eternity, Andarche|Mobile app only: Android+iOS|
 |[Manga UP!](https://global.manga-up.com/)|Square Enix: Shounen Gangan, G Fantasy, Gangan Joker, Young Gangan, etc.|English|Per chapter rental, fanservice/nudity content is heavily censored with blackbars.|
 |[MangaPlus](https://mangaplus.shueisha.co.jp)|Shueisha: Shounen Jump, Jump+, Ultra Jump, Tonari no Young Jump, etc. |English, Spanish, Indonesian, Thai, French, Russian, Brazilian Portuguese||
 
