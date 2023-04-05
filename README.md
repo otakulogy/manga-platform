@@ -82,14 +82,13 @@ Some site on this list has totally free catalog.
 |[Crunchyroll](http://www.crunchyroll.com/comics/manga)|English||
 |[eManga](https://www.emanga.com/)|English|United States|Manga from Tezuka Production, Media Factory, and Softbank Creative|
 |[Fakku](http://fakku.net/)|English|Worldwide except Japan, Mainland China, and South Korea|R18+, Provides contents from Wanimagazine (Comic Kairakuten, Comic Shitsurakuten, Comic X-Eros) and doujin/indie manga|
-|[Futekiya](https://read.futekiya.com/)|English||Boys-love focused platform.|
 |[GEN](http://genmanga.com/issues/index.html)|English||Original Japanese doujinshi / indie manga|
 |[INKR](https://inkr.com/browse/manga)|English||Previously MangaRock. Provides manga from Kodansha USA, Tokyopop, Softbank, Medibang, etc|
 |[Izneo](https://www.izneo.com/)|English, French, Dutch, German||Provides manga from Kodansha Comics and Vertical|
 |[Manga.club](https://www.manga.club/)|English||Manga from Torico, Akita Shoten, Nihon Bungeisha, etc.|
 |[Mangabox](https://www.mangabox.me/)|Japanese, Chinese, English||DeNA owned platform. Available in Android and iOS. Host indie manga as well|
 |[Mangamo](https://www.mangamo.com/)|English|Canada and US|iOS only; subsciption based with 4.99USD per month.|
-|[Manga Planet](https://read.mangaplanet.com)|English|Worldwide except Japan|Subsciption based (6.99USD/month) for unlimited content. Content provided by Kadokawa USA, Wani Books, Hobby Japan, etc.|
+|[Manga Planet](https://read.mangaplanet.com)|English|Worldwide except Japan|Subsciption based (6.99USD/month) for unlimited content. Content provided by Kadokawa USA, Wani Books, Hobby Japan, etc. Merged with Futekiya (BL-only platform)|
 |[MangaPlaza](https://read.mangaplanet.com)|English|US but accessible globally|Subsciption based (6.99USD/month) for unlimited content. Content provided by SB Creative, Kodansha, Hakusensha, Houbunsha, Solmare, Shuisuisha, Funguild, etc. Owned by NTT Solmare.|
 |[Manga Reborn](http://mangareborn.jp/)|Japanese, English||Legal Third-party Translation|
 |[Manga Toshokan Z](https://mangaz.com)|Japanese||All content are free to read|
@@ -120,3 +119,4 @@ Some site on this list has totally free catalog.
 |---------------|--------------|---|-------|
 |[Comico Indonesia](http://www.comico.co.id/)|Indonesian|Indonesia|Indonesia localized version of Comico with additional local content. Also provides novel from Elex Media and Harlequin manga.|
 |[Mangamon](http://www.mangamon.id/)|Indonesian|Indonesia|Provides contents from Elex Media, M&C Comics, and eBook Japan Initiative|
+|[Futekiya](https://read.futekiya.com/)|English||Boys-love focused platform. Merged with Manga Planet|
