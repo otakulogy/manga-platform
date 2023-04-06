@@ -94,7 +94,6 @@ Some site on this list has totally free catalog.
 |[Manga Toshokan Z](https://mangaz.com)|Japanese||All content are free to read|
 |[MyAnimeList](https://myanimelist.net/read/manga)|English|Worldwide|Partially free to read|
 |[NetEase Comic](https://163.bilibili.com/)|Mandarin|China||
-|Pocket Comics|English|Canada, Singapore, US|International version of Comico. [Android](https://play.google.com/store/apps/details?id=jp.comico) / [iOS](https://itunes.apple.com/jp/app/id721512660)|
 |[QQ Comic](https://ac.qq.com/)|Mandarin|China||
 |[Renta!](https://www.ebookrenta.com/)|English|United States||
 |[Sublime Manga](https://www.sublimemanga.com/)|English||Boys-love only|
@@ -119,4 +118,5 @@ Some site on this list has totally free catalog.
 |---------------|--------------|---|-------|
 |[Comico Indonesia](http://www.comico.co.id/)|Indonesian|Indonesia|Indonesia localized version of Comico with additional local content. Also provides novel from Elex Media and Harlequin manga.|
 |[Mangamon](http://www.mangamon.id/)|Indonesian|Indonesia|Provides contents from Elex Media, M&C Comics, and eBook Japan Initiative|
+|Pocket Comics|English|Canada, Singapore, US|International version of Comico. [Android](https://play.google.com/store/apps/details?id=jp.comico) / [iOS](https://itunes.apple.com/jp/app/id721512660)|
 |[Futekiya](https://read.futekiya.com/)|English||Boys-love focused platform. Merged with Manga Planet|
