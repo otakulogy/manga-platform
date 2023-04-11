@@ -54,11 +54,12 @@ First party native platform (directly from publisher), not redistributor.
 # Global
 
 ## First Party
+
 | Site | Publisher/Magazine | Language | Note |
 |------|--------------------|----------|------|
 |[Alpha Manga](https://www.alpha-manga.com/)|Alphapolis: Alphapolis, Regina, Alphanorn, Eternity, Andarche|English|Mobile app only: Android+iOS|
-|[K Manga](https://kmanga.kodansha.com/)|Kodansha: Shounen Magazine, Shonen Sirius, Young Magazine, Morning, Afternoon, etc. | English: US only | Simultaneous chapter release |
-|[Manga UP!](https://global.manga-up.com/)|Square Enix: Shounen Gangan, G Fantasy, Gangan Joker, Young Gangan, etc.|English|Per chapter rental, ~~fanservice/nudity content is heavily censored with blackbars.~~|
+|[K Manga](https://kmanga.kodansha.com/)|Kodansha: Shounen Magazine, Shonen Sirius, Young Magazine, Morning, Afternoon, Magazine Pocket, etc. | English: US only | Simultaneous chapter release, provide free chapter daily |
+|[Manga UP!](https://global.manga-up.com/)|Square Enix: Shounen Gangan, G Fantasy, Gangan Joker, Young Gangan, etc.|English|Per chapter rental. ~~Fanservice/nudity content is heavily censored with blackbars.~~|
 |[MangaPlus](https://mangaplus.shueisha.co.jp)|Shueisha: Shounen Jump, Jump+, Ultra Jump, Tonari no Young Jump, etc. |English, Spanish, Indonesian, Thai, French, Russian, Brazilian Portuguese|Simultaneous chapter release, latest and selected titles free|
 |[Mangapon](https://mangapon.com/lp/)|WWWave Comics: CocoCheek, MEQLME, Zacuromanica, Comic Goichi, Trahison.|English: US, Canada, Australia, Singapore, and more (70+ countries)|Mobile only: [iOS](https://apps.apple.com/app/apple-store/id1610255667). Android not supported anymore.|
 
