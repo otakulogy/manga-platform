@@ -112,13 +112,15 @@ Some site on this list has totally free catalog.
 
 |Site| Language|Country/Region| Note |
 |---------------|--------------|----|-------|
+|[2D-Market](http://2d-market.com/)|English||Adult manga and doujinshi|
 |[Barnes and Noble](https://www.barnesandnoble.com/)||English|Mostly manga that licensed on NA|
 |[BookWalker (Global)](https://global.bookwalker.jp/)|Global|English||
 |[Comixology](https://www.comixology.com/Manga)|English|United States, Canada|Mostly manga that licensed on NA|
 |[Comixology Europe](https://www.comixology.eu/)|English|||
-|[DLSite](https://www.dlsite.com/)| Japan; English | doujin works and other niche otaku product
-|[Melonbooks](melonbooks.co.jp/)|Japan; operated globally|Japanese|Mainly provide doujin works|
-|[MyAnimeList](https://myanimelist.net/read/manga)|English|Worldwide|Partially free to read|
+|[DLSite](https://www.dlsite.com/)| Global | Japanese, English, Korean, Simplified Chinese, Traditional Chinese | Doujin works and other niche otaku product|
+|[Irodori Comics](https://irodoricomics.com/)| | English, Traditional Chinese, French, Spanish | Adult manga and official licensed doujinshi |
+|[Melonbooks](melonbooks.co.jp/)|Japan; operated globally|Japanese|Mainly provide doujin works |
+|[MyAnimeList](https://myanimelist.net/read/manga)|English|Worldwide|Partially free to read |
 
 ## Deprecated
 
