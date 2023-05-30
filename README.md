@@ -41,6 +41,7 @@ First party native platform (directly from publisher), not redistributor.
 |[Shonen Jump+ 少年ジャンプ+](https://shonenjumpplus.com/)|Shueisha: Shonen Jump|
 |[Tatesc Comic タテスクコミック](https://tatesc-comic.com/)|Kadokawa: Gempak Starz, etc|Vertical comic platform, some comics are edited from book version.|
 |[Young Ace UP](https://web-ace.jp/youngaceup/)|Kadokawa: Young Ace|
+|[YNJN! ヤンジャン!](https://ynjn.jp/)|Shueisha: YNJN! (original), Young Jump, Tonari no Young Jump, Grand Jump, Ultra Jump, Dash X| Seinen-oriented manga platform, also available as mobile app|
 |[Zerosum Online ゼロサムオンライン](https://zerosumonline.com/zerosum)|Ichijinsha: Zero Sum Comics|
 
 ## Third Party
