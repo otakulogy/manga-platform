@@ -47,7 +47,7 @@ First party native platform (directly from publisher), not redistributor.
 ## Third Party
 
 |Site| Note |
-|---------------|--------------|---|
+|---------------|--------------|
 |[BookWalker](https://bookwalker.jp/)|
 |[Booth.pm](https://booth.pm)|General purpose doujin and official product market.|
 |[eBook Japan Initiative](https://www.ebookjapan.jp/ebj/)| Provides free-to-read manga, consists of manga from various Japanese publisher|
