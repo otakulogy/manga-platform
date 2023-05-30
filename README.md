@@ -31,7 +31,7 @@ First party native platform (directly from publisher), not redistributor.
 |[Gangan Online ガンガンONLINE](http://www.ganganonline.com/)|Square Enix: Gangan Online|
 |[Ichijin Plus 一迅プラス](https://ichijin-plus.com/)|Ichijinsha: Yuri-hime Comics, Comic Pool, and Zero Sum Comics|
 |[Jump Rookie! ジャンプルーキー！](https://rookie.shonenjump.com)|Shueisha: Jump Rookie!|Comic submission available for anyone|
-|[Komiflo](https://komiflo.com/)|Wani Magazine: Comic Kairakuten, Comic Shitsurakuten, Comic X-Eros | R18+ only|
+|[Komiflo](https://komiflo.com/)| Wani Magazine: Comic Kairakuten, Comic Shitsurakuten, Comic X-Eros | R18+ pornographic manga only |
 |[Magapoke マガポケ](https://pocket.shonenmagazine.com/series)|Kodansha: Magapoke (exclusive), Weekly Shonen Magazine, Bessatsu Shonen Magazine||
 |[MangaMee マンガMee](https://manga-mee.jp/)|Shueisha: Ribon, Margaret, Bessatsu Margaret (Betsuma), Cocohana, Cookie, The Margaret, Office YOU, Mellowkiss (Homesha)|Female-oriented manga platform, including BL. App available.|
 |[MangaUP! マンガUP!](https://magazine.jp.square-enix.com/mangaup/)|Square Enix: Shonen Gangan, Young Gangan, Gangan Joker, etc|
