@@ -22,19 +22,19 @@ First party native platform (directly from publisher), not redistributor.
 
 |Site| Magazine/Publication| Note |
 |---------------|--------------|---|
-|[Alphapolis](https://www.alphapolis.co.jp/manga/official)|Alphapolis: Alphapolis, Regina, Alphanorn, Eternity, Andarche|
-|[Comic Days](https://comic-days.com)|Kodansha: Shonen Magazine, Dessert, Nakayoshi, Morning, and Afternoon|980JPY per month for every manga magazine from Kodansha|
-|[Comic Newtype](https://comic.webnewtype.com/)|Kadokawa: Newtype| 
-|[Cycomics](https://cycomi.com/)|Cygames: Cycomi|
-|[Dentsuma](https://twitter.com/dentsuma)|Kadokawa: Dengeki Twitter Magazine|
-|[Gangan Online](http://www.ganganonline.com/)|Square Enix: Gangan Online|
-|[Ichijin Plus](https://ichijin-plus.com/)|Ichijinsha: Yuri-hime Comics, Comic Pool, and Zero Sum Comics|
+|[Alphapolis アルファポリス](https://www.alphapolis.co.jp/manga/official)|Alphapolis: Alphapolis, Regina, Alphanorn, Eternity, Andarche|
+|[Comic Days コミックDAYS](https://comic-days.com)|Kodansha: Shonen Magazine, Dessert, Nakayoshi, Morning, and Afternoon|980JPY per month for every manga magazine from Kodansha|
+|[Comic Newtype コミックNewtype](https://comic.webnewtype.com/)|Kadokawa: Newtype| 
+|[Cycomi サイコミ](https://cycomi.com/)|Cygames: Cycomi|
+|[Dentsuma 電ツマ](https://twitter.com/dentsuma)|Kadokawa: Dengeki Twitter Magazine|
+|[Gangan Online ガンガンONLINE](http://www.ganganonline.com/)|Square Enix: Gangan Online|
+|[Ichijin Plus 一迅プラス](https://ichijin-plus.com/)|Ichijinsha: Yuri-hime Comics, Comic Pool, and Zero Sum Comics|
 |[Komiflo](https://komiflo.com/)|Wani Magazine: Comic Kairakuten, Comic Shitsurakuten, Comic X-Eros | R18+ only|
-|[MangaUP!](https://magazine.jp.square-enix.com/mangaup/)|Square Enix: Shonen Gangan, Young Gangan, Gangan Joker, etc|
-|[Manga5](https://manga-5.com/)|Level5|
-|[Shonen Jump+](https://shonenjumpplus.com/)|Shueisha: Shonen Jump|
+|[MangaUP! マンガUP!](https://magazine.jp.square-enix.com/mangaup/)|Square Enix: Shonen Gangan, Young Gangan, Gangan Joker, etc|
+|[Manga5 マンガ5](https://manga-5.com/)|Level5|
+|[Shonen Jump+ 少年ジャンプ+](https://shonenjumpplus.com/)|Shueisha: Shonen Jump|
 |[Young Ace UP](https://web-ace.jp/youngaceup/)|Kadokawa: Young Ace|
-|[Zerosum Online](https://zerosumonline.com/zerosum)|Ichijinsha: Zero Sum Comics|
+|[Zerosum Online ゼロサムオンライン](https://zerosumonline.com/zerosum)|Ichijinsha: Zero Sum Comics|
 
 ## Third Party Store
 
