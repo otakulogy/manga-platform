@@ -26,6 +26,7 @@ First party native platform (directly from publisher), not redistributor.
 |[Comic Days コミックDAYS](https://comic-days.com)|Kodansha: Shonen Magazine, Dessert, Nakayoshi, Morning, and Afternoon|980JPY per month for every manga magazine from Kodansha|
 |[COMIC FUZ](https://comic-fuz.com/)|Houbunsha: Weekly Manga Times, Manga Time, Manga Time Original, Manga Home, Manga Time Kirara, Manga Time Kirara MAX, Manga Time Kirara Carrot, Manga Time Kirara Carrot, Manga Time Kirara Forward, Kyapi!, Hanaoto||
 |[Comic Newtype コミックNewtype](https://comic.webnewtype.com/)|Kadokawa: Newtype| 
+|[Comico](https://www.comico.jp/)|NHN Japan: Comico|Vertical web comic. Also provides comics from Korea, Indonesia, and Thailand.|
 |[Cycomi サイコミ](https://cycomi.com/)|Cygames: Cycomi|
 |[Dentsuma 電ツマ](https://twitter.com/dentsuma)|Kadokawa: Dengeki Twitter Magazine|
 |[Gangan Online ガンガンONLINE](http://www.ganganonline.com/)|Square Enix: Gangan Online|
@@ -42,9 +43,9 @@ First party native platform (directly from publisher), not redistributor.
 |[Young Ace UP](https://web-ace.jp/youngaceup/)|Kadokawa: Young Ace|
 |[Zerosum Online ゼロサムオンライン](https://zerosumonline.com/zerosum)|Ichijinsha: Zero Sum Comics|
 
-## Third Party Store
+## Third Party
 
-|Site| Magazine/Publication| Note |
+|Site| Note |
 |---------------|--------------|---|
 |[BookWalker](https://bookwalker.jp/)|
 |[Booth.pm](https://booth.pm)|General purpose doujin and official product market.|
@@ -53,9 +54,10 @@ First party native platform (directly from publisher), not redistributor.
 |[DMM](https://book.dmm.com/)||
 |[Line Manga](https://manga.line.me/) | 
 |[Melonbooks](melonbooks.co.jp/)| Mainly provide doujin works|
-|[Nico Nico Manga](https://seiga.nicovideo.jp/manga/)|Japanese|Japan|Provides manga from various Japanese publisher.|
+|[Nico Nico Manga](https://seiga.nicovideo.jp/manga/)|Provides manga from various Japanese publisher.|
 |[Piccoma](https://piccoma.com/web/)|Region locked to Japan only|
 |[Pixiv Comic](https://comic.pixiv.net/)|Provides content from various magazine (Shonen Sunday, Kitora!, Dengeki Maou, etc.)|
+|[Sukima](https://www.sukima.me/)||
 
 # Global
 
@@ -67,9 +69,9 @@ First party native platform (directly from publisher), not redistributor.
 |[K Manga](https://kmanga.kodansha.com/)|Kodansha: Shounen Magazine, Shonen Sirius, Young Magazine, Morning, Afternoon, Magazine Pocket, etc. | English: US only | Simultaneous chapter release, provide free chapter daily |
 |[Manga UP!](https://global.manga-up.com/)|Square Enix: Shounen Gangan, G Fantasy, Gangan Joker, Young Gangan, etc.|English|Per chapter rental. ~~Fanservice/nudity content is heavily censored with blackbars.~~|
 |[MangaPlus](https://mangaplus.shueisha.co.jp)|Shueisha: Shounen Jump, Jump+, Ultra Jump, Tonari no Young Jump, etc. |English, Spanish, Indonesian, Thai, French, Russian, Brazilian Portuguese|Simultaneous chapter release, latest and selected titles free|
-|[Mangapon](https://mangapon.com/lp/)|WWWave Comics: CocoCheek, MEQLME, Zacuromanica, Comic Goichi, Trahison.|English: US, Canada, Australia, Singapore, and more (70+ countries)|Mobile only: [iOS](https://apps.apple.com/app/apple-store/id1610255667). Android not supported anymore.|
+|[Mangapon](https://mangapon.com/lp/)| WWWave Comics: CocoCheek, MEQLME, Zacuromanica, Comic Goichi, Trahison.|English: US, Canada, Australia, Singapore, and more (70+ countries)|Mobile only: [iOS](https://apps.apple.com/app/apple-store/id1610255667). Android not supported anymore.|
 
-## Others
+# Others
 
 Some site on this list has totally free catalog.
 
@@ -78,8 +80,7 @@ Some site on this list has totally free catalog.
 |[Azuki](https://www.azuki.co/)|English|Worldwide except Japan|4.99USD per month|
 |[Ballon & Chapters](http://www.balloonsandchapters.com/)|English||Mostly shoujo/josei mangafrom Sofbank Creative|
 |[ComicWalker](https://comic-walker.com/)|Japanese|Japan|Provides content from Kadokawa Publishing|
-|[Comico](https://www.comico.jp/)|Japanese|Japan|Web comic. Also provides comics from Korea, Indonesia, and Thailand.|
-|[Comico Korea](http://www.comico.co.id/)|Korean|South Korea|South Korea localized version of Comico with additional local content.|
+|[Comico Korea](http://www.comico.kr/)|Korean|South Korea|South Korea localized version of Comico with additional local content.|
 |[Comico Spanish](http://www.comico.net/webtoon/index)|Spanish|Spain|Spanish language version of Comico.|
 |[Comico Taiwan](http://www.comico.com.tw/)|Cantonese|Taiwan|Taiwan localized version of Comico with additional local content.|
 |[Comico Thailand](http://www.comico.in.th/)|Thai|Thailand|Thailand localized version of Comico with additional local content.|
@@ -87,6 +88,7 @@ Some site on this list has totally free catalog.
 |[Comixology Europe](https://www.comixology.eu/)|English|||
 |[Coolmic](https://coolmic.me)|English||Application only|
 |[Crunchyroll](http://www.crunchyroll.com/comics/manga)|English||
+|[DouDoujin](https://doudoudoujin.com/)|Japanese, English, Indonesian, Chinese (Simplified+Traditional), Thai, Korean |International doujin comic platform|
 |[eManga](https://www.emanga.com/)|English|United States|Manga from Tezuka Production, Media Factory, and Softbank Creative|
 |[Fakku](http://fakku.net/)|English|Worldwide except Japan, Mainland China, and South Korea|R18+, Provides contents from Wanimagazine (Comic Kairakuten, Comic Shitsurakuten, Comic X-Eros) and doujin/indie manga|
 |[GEN](http://genmanga.com/issues/index.html)|English||Original Japanese doujinshi / indie manga|
@@ -104,8 +106,7 @@ Some site on this list has totally free catalog.
 |[QQ Comic](https://ac.qq.com/)|Mandarin|China||
 |[Renta!](https://www.ebookrenta.com/)|English|United States||
 |[Sublime Manga](https://www.sublimemanga.com/)|English||Boys-love only|
-|[Sukima](https://www.sukima.me/)|Japanese|Japan||
-|[Viz](https://www.viz.com/read)|English|North America|Manga licensed by Viz Media|
+|[Viz Manga](https://www.viz.com/read)|English|North America|Manga licensed by Viz Media, subscription available|
 
 ## Digital Online Store
 
