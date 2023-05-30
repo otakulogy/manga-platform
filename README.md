@@ -24,6 +24,7 @@ First party native platform (directly from publisher), not redistributor.
 |---------------|--------------|---|
 |[Alphapolis アルファポリス](https://www.alphapolis.co.jp/manga/official)|Alphapolis: Alphapolis, Regina, Alphanorn, Eternity, Andarche|
 |[Comic Days コミックDAYS](https://comic-days.com)|Kodansha: Shonen Magazine, Dessert, Nakayoshi, Morning, and Afternoon|980JPY per month for every manga magazine from Kodansha|
+|[COMIC FUZ](https://comic-fuz.com/)|Houbunsha: Weekly Manga Times, Manga Time, Manga Time Original, Manga Home, Manga Time Kirara, Manga Time Kirara MAX, Manga Time Kirara Carrot, Manga Time Kirara Carrot, Manga Time Kirara Forward, Kyapi!, Hanaoto||
 |[Comic Newtype コミックNewtype](https://comic.webnewtype.com/)|Kadokawa: Newtype| 
 |[Cycomi サイコミ](https://cycomi.com/)|Cygames: Cycomi|
 |[Dentsuma 電ツマ](https://twitter.com/dentsuma)|Kadokawa: Dengeki Twitter Magazine|
