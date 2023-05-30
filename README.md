@@ -33,6 +33,7 @@ First party native platform (directly from publisher), not redistributor.
 |[Jump Rookie! ジャンプルーキー！](https://rookie.shonenjump.com)|Shueisha: Jump Rookie!|Comic submission available for anyone|
 |[Komiflo](https://komiflo.com/)|Wani Magazine: Comic Kairakuten, Comic Shitsurakuten, Comic X-Eros | R18+ only|
 |[Magapoke マガポケ](https://pocket.shonenmagazine.com/series)|Kodansha: Magapoke (exclusive), Weekly Shonen Magazine, Bessatsu Shonen Magazine||
+|[MangaMee マンガMee](https://manga-mee.jp/)|Shueisha: Ribon, Margaret, Bessatsu Margaret (Betsuma), Cocohana, Cookie, The Margaret, Office YOU, Mellowkiss (Homesha)|Female-oriented manga platform, including BL. App available.|
 |[MangaUP! マンガUP!](https://magazine.jp.square-enix.com/mangaup/)|Square Enix: Shonen Gangan, Young Gangan, Gangan Joker, etc|
 |[Manga5 マンガ5](https://manga-5.com/)|Level5|
 |[Shonen Jump+ 少年ジャンプ+](https://shonenjumpplus.com/)|Shueisha: Shonen Jump|
