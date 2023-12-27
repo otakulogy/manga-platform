@@ -53,6 +53,7 @@ First party native platform (directly from publisher), not redistributor.
 |[eBook Japan Initiative](https://www.ebookjapan.jp/ebj/)| Provides free-to-read manga, consists of manga from various Japanese publisher|
 |[DLSite](https://www.dlsite.com/)| All kinds of manga including doujin works and other niche otaku product
 |[DMM](https://book.dmm.com/)||
+|[DouDouDoujin](https://doudoudoujin.com/)|Self-upload doujin platform, support multi-language|
 |[Line Manga](https://manga.line.me/) | 
 |[Melonbooks](melonbooks.co.jp/)| Mainly provide doujin works|
 |[Nico Nico Manga](https://seiga.nicovideo.jp/manga/)|Provides manga from various Japanese publisher.|
