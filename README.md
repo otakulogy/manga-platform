@@ -100,6 +100,7 @@ Some site on this list has totally free catalog.
 |[Mangabox](https://www.mangabox.me/)|Japanese, Chinese, English||DeNA owned platform. Available in Android and iOS. Host indie manga as well|
 |[Mangamo](https://www.mangamo.com/)|English|Canada and US|iOS only; subsciption based with 4.99USD per month.|
 |[Manga Planet](https://read.mangaplanet.com)|English|Worldwide except Japan|Subsciption based (6.99USD/month) for unlimited content. Content provided by Kadokawa USA, Wani Books, Hobby Japan, etc. Merged with Futekiya (BL-only platform)|
+|[Manga Planet India](https://mangaplanet.in)|English|India|Subsciption based (99INR/month). Content provided by Kadokawa, Wani Books, Hobby Japan, etc.|
 |[MangaPlaza](https://read.mangaplanet.com)|English|US but accessible globally|Subsciption based (6.99USD/month) for unlimited content. Content provided by SB Creative, Kodansha, Hakusensha, Houbunsha, Solmare, Shuisuisha, Funguild, etc. Owned by NTT Solmare.|
 |[Manga Reborn](http://mangareborn.jp/)|Japanese, English||Legal Third-party Translation|
 |[Manga Toshokan Z](https://mangaz.com)|Japanese||All content are free to read|
